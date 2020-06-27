@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051840000972",
+    "firebase_url": "https://budhub-71afe.firebaseio.com",
+    "project_id": "budhub-71afe",
+    "storage_bucket": "budhub-71afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051840000972:android:28c6431893e66e28946369",
+        "android_client_info": {
+          "package_name": "com.muhammad.minhaz.budhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051840000972-gk1hiaae17b4qqdf98qfhge157p2j51i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammad.minhaz.budhub",
+            "certificate_hash": "987bf0b8e4b6b9b1fefad3aedea32d3971ba9250"
+          }
+        },
+        {
+          "client_id": "1051840000972-1bq3dktpb6d8j9v44quvti7bfed5n69d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoaEiY2N6HsKrzN7IH5FQaaUW0yZekEBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051840000972-1bq3dktpb6d8j9v44quvti7bfed5n69d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
